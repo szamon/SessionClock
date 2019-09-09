@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/SessionClock/static/css/main.cb8ba148.chunk.css",
-    "main.js": "/SessionClock/static/js/main.9c3673dc.chunk.js",
-    "main.js.map": "/SessionClock/static/js/main.9c3673dc.chunk.js.map",
+    "main.css": "/SessionClock/static/css/main.43be61db.chunk.css",
+    "main.js": "/SessionClock/static/js/main.9d77b395.chunk.js",
+    "main.js.map": "/SessionClock/static/js/main.9d77b395.chunk.js.map",
     "runtime~main.js": "/SessionClock/static/js/runtime~main.3cd9629e.js",
     "runtime~main.js.map": "/SessionClock/static/js/runtime~main.3cd9629e.js.map",
-    "static/js/2.5dbd8ed4.chunk.js": "/SessionClock/static/js/2.5dbd8ed4.chunk.js",
-    "static/js/2.5dbd8ed4.chunk.js.map": "/SessionClock/static/js/2.5dbd8ed4.chunk.js.map",
+    "static/js/2.27e9ad4f.chunk.js": "/SessionClock/static/js/2.27e9ad4f.chunk.js",
+    "static/js/2.27e9ad4f.chunk.js.map": "/SessionClock/static/js/2.27e9ad4f.chunk.js.map",
     "index.html": "/SessionClock/index.html",
-    "precache-manifest.ab3da4a80b0181383b4eb493d68676e1.js": "/SessionClock/precache-manifest.ab3da4a80b0181383b4eb493d68676e1.js",
+    "precache-manifest.dc5d53ec8e52fac09e40336c2fee2cbf.js": "/SessionClock/precache-manifest.dc5d53ec8e52fac09e40336c2fee2cbf.js",
     "service-worker.js": "/SessionClock/service-worker.js",
-    "static/css/main.cb8ba148.chunk.css.map": "/SessionClock/static/css/main.cb8ba148.chunk.css.map",
-    "static/media/logo.svg": "/SessionClock/static/media/logo.5d5d9eef.svg"
+    "static/css/main.43be61db.chunk.css.map": "/SessionClock/static/css/main.43be61db.chunk.css.map"
   }
 }
