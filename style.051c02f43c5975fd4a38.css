@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Blinker&display=swap);
+p {
+  margin: 0; }
+
+.containerApp {
+  color: white;
+  font-family: "Blinker", sans-serif;
+  overflow: hidden;
+  border: 5px solid black;
+  border-radius: 100px 100px 10px 10px;
+  width: 60%;
+  margin: 150px auto 0 auto;
+  background: #41436e; }
+
+.containerSB {
+  margin-top: 15px; }
+
+.containerSession, .containerBreak {
+  padding-bottom: 5px;
+  text-align: center; }
+
+.containerSession p, .containerBreak p {
+  margin: 10px auto; }
+
+.containerSession button, .containerBreak button {
+  font-style: bold;
+  width: 25px;
+  height: 25px;
+  color: white;
+  background: none;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-bottom: 5px; }
+
+.textSB {
+  font-size: 1.5em; }
+
+.containerClock {
+  border-top: 3px solid black;
+  height: 200px;
+  text-align: center; }
+
+.containerClock button {
+  font-style: bold;
+  height: 30px;
+  width: 100px;
+  color: white;
+  background: none;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-bottom: 5px; }
+
+.time {
+  color: black;
+  border: 1px solid black;
+  width: 50%;
+  border-radius: 5px;
+  margin: 20px auto 0 auto;
+  background: #fc7b03;
+  font-size: 2em;
+  font-style: bold; }
+
+@media screen and (min-width: 600px) {
+  .containerApp {
+    width: 450px; }
+  .containerSession, .containerBreak {
+    display: inline-block;
+    width: 48%; }
+  .time {
+    font-size: 4em; }
+  .containerSB {
+    margin-top: 0px; } }
+
